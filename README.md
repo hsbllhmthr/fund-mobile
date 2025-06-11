@@ -1,2 +1,2 @@
 # fund-mobile
-Pemrograman Aplikasi Mobile Native
+Aplikasi CRUD Mahasiswa menggunakan Flutter dan PHP API
